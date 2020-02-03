@@ -1,2 +1,2 @@
-# Rede-Neural-Artificial-com-Java
+# Rede Neural Artificial com Java
 Estudo basico de RNA com java
